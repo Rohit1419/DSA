@@ -39,4 +39,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rohit1419/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Rohit1419/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
