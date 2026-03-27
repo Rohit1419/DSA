@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Rohit1419/DSA/tree/master/0493-reverse-pairs) |
+| [3031-construct-product-matrix](https://github.com/Rohit1419/DSA/tree/master/3031-construct-product-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rohit1419/DSA/tree/master/0007-reverse-integer) |
+## Matrix
+|  |
+| ------- |
+| [3031-construct-product-matrix](https://github.com/Rohit1419/DSA/tree/master/3031-construct-product-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3031-construct-product-matrix](https://github.com/Rohit1419/DSA/tree/master/3031-construct-product-matrix) |
 <!---LeetCode Topics End-->
