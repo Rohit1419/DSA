@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Rohit1419/DSA/tree/master/0204-count-primes) |
 | [0493-reverse-pairs](https://github.com/Rohit1419/DSA/tree/master/0493-reverse-pairs) |
 | [3031-construct-product-matrix](https://github.com/Rohit1419/DSA/tree/master/3031-construct-product-matrix) |
 ## Binary Search
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rohit1419/DSA/tree/master/0007-reverse-integer) |
+| [0204-count-primes](https://github.com/Rohit1419/DSA/tree/master/0204-count-primes) |
 ## Matrix
 |  |
 | ------- |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit1419/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rohit1419/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Rohit1419/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
