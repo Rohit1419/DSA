@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0204-count-primes](https://github.com/Rohit1419/DSA/tree/master/0204-count-primes) |
 | [0493-reverse-pairs](https://github.com/Rohit1419/DSA/tree/master/0493-reverse-pairs) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit1419/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3031-construct-product-matrix](https://github.com/Rohit1419/DSA/tree/master/3031-construct-product-matrix) |
 ## Binary Search
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit1419/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit1419/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit1419/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit1419/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Enumeration
 |  |
 | ------- |
