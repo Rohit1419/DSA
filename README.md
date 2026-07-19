@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit1419/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit1419/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,4 +78,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rohit1419/DSA/tree/master/0204-count-primes) |
+## Stack
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit1419/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit1419/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit1419/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
