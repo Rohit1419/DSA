@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/Rohit1419/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rohit1419/DSA/tree/master/0204-count-primes) |
 | [0493-reverse-pairs](https://github.com/Rohit1419/DSA/tree/master/0493-reverse-pairs) |
+| [0898-transpose-matrix](https://github.com/Rohit1419/DSA/tree/master/0898-transpose-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Rohit1419/DSA/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit1419/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3031-construct-product-matrix](https://github.com/Rohit1419/DSA/tree/master/3031-construct-product-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Rohit1419/DSA/tree/master/0898-transpose-matrix) |
 | [3031-construct-product-matrix](https://github.com/Rohit1419/DSA/tree/master/3031-construct-product-matrix) |
 ## Prefix Sum
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Rohit1419/DSA/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Rohit1419/DSA/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
