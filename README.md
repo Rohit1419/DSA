@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rohit1419/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Rohit1419/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rohit1419/DSA/tree/master/0204-count-primes) |
 | [0493-reverse-pairs](https://github.com/Rohit1419/DSA/tree/master/0493-reverse-pairs) |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Rohit1419/DSA/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Rohit1419/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Rohit1419/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rohit1419/DSA/tree/master/0204-count-primes) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rohit1419/DSA/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rohit1419/DSA/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/Rohit1419/DSA/tree/master/0898-transpose-matrix) |
 | [3031-construct-product-matrix](https://github.com/Rohit1419/DSA/tree/master/3031-construct-product-matrix) |
 ## Prefix Sum
