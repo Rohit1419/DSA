@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rohit1419/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Rohit1419/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rohit1419/DSA/tree/master/0142-linked-list-cycle-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit1419/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Rohit1419/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rohit1419/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit1419/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rohit1419/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rohit1419/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Rohit1419/DSA/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
@@ -139,4 +142,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rohit1419/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Rohit1419/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
