@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Rohit1419/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Rohit1419/DSA/tree/master/0141-linked-list-cycle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rohit1419/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/Rohit1419/DSA/tree/master/0141-linked-list-cycle) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Rohit1419/DSA/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -127,9 +129,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Rohit1419/DSA/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Rohit1419/DSA/tree/master/0189-rotate-array) |
 ## Simulation
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/Rohit1419/DSA/tree/master/0898-transpose-matrix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Rohit1419/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
