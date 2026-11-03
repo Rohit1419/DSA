@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rohit1419/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Rohit1419/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0886-score-of-parentheses](https://github.com/Rohit1419/DSA/tree/master/0886-score-of-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Rohit1419/DSA/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -148,4 +149,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Rohit1419/DSA/tree/master/0203-remove-linked-list-elements) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rohit1419/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rohit1419/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Rohit1419/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
